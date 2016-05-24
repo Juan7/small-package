@@ -1,4 +1,4 @@
-class Calculator()
+class Calculator():
 """Contain simple functions for mathematical operations."""
 
     def sum(self, param1, param2):
