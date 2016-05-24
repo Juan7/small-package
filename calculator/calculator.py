@@ -1,6 +1,3 @@
-import math
-
-
 class Calculator()
 """Contain simple functions for mathematical operations."""
 
@@ -20,3 +17,9 @@ class Calculator()
         """Return the division of two numbers."""
         assert(param2 != 0)
         return param1 / param2
+
+def main():
+    return Calculator()
+
+if __name__ == "__main__":
+    main()
