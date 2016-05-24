@@ -10,7 +10,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='calculator',
-      version='1.0.2',
+      version='1.0.3',
       packages=find_packages(exclude=['contrib', 'docs', 'tests']),
       author='Phinxk',
       author_email='juan.gomez.q@gmail.com',

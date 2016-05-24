@@ -1,5 +1,5 @@
 class Calculator():
-"""Contain simple functions for mathematical operations."""
+    """Contain simple functions for mathematical operations."""
 
     def sum(self, param1, param2):
         """Return the sum of two numbers."""
